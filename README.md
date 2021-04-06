@@ -8,7 +8,7 @@ aray03/aray03 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-- Self guide to help upload things right
+- Self guide to help upload things right (Don't judge I haven't memorized it yet ok)
 - Create repo on GitHub
 - go to folder in cmd line
 - git clone (link from github)
