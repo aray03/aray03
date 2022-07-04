@@ -1,6 +1,6 @@
 - 👋 Good afternoon!, I’m @aray03
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning how to GITHUB Properly and Database stuff for school
+- 🌱 I’m currently learning how to GITHUB Properly
 - 📫 How to reach me ... not yet!
 
 <!---
